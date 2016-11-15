@@ -1,7 +1,7 @@
-# GDG Salvador
+# GDG Porto
 
-Website oficial do Google Developers Group Salvador,BA - Brazil
-##### [http://gdgssa.github.io](http://gdgssa.github.io)
+Website oficial do Google Developers Group Porto - Portugal
+##### [http://gdgporto.github.io](http://gdgporto.github.io)
 ---
 
 ### Como Contribuir
@@ -16,7 +16,7 @@ Website oficial do Google Developers Group Salvador,BA - Brazil
 
 3 - Clone o projeto e navegue até seu diretório:
 ```sh
-  $ git clone https://github.com/GDG-Salvador/gdg-salvador.github.io.git && cd gdg-salvador.github.io
+  $ git clone https://github.com/GDGPorto/gdgporto.github.io.git && cd gdgporto.github.io
 ```  
 
 4 - Instale os pacotes NPM:
