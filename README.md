@@ -1,31 +1,31 @@
 # GDG Porto
 
-Website oficial do Google Developers Group Porto - Portugal
-##### [http://gdgporto.github.io](http://gdgporto.github.io)
+Official Website of Google Developers Group Porto - Portugal
+##### [http://gdgporto.github.io] (http://gdgporto.github.io)
 ---
 
-### Como Contribuir
-##### Instalação:
+### How to Contribute
+##### Installation:
 
-1 -  Instale o [`Git`](https://git-scm.com/downloads), [`Ruby`](http://www.ruby-lang.org/pt/downloads/), [`NodeJS`](https://nodejs.org/en/) e o [`GulpJS`](http://gulpjs.com/).
+1 - Install [ `Git`] (https://git-scm.com/downloads), [` Ruby`] (http://www.ruby-lang.org/en/downloads/), [ `NodeJS `] (Https://nodejs.org/en/) and [` GulpJS`] (http://gulpjs.com/).
 
-2 - Instale o [`Jekyll`](http://jekyllrb.com/) seguindo o comando abaixo: 
+2 - Install [ `Jekyll`] (http://jekyllrb.com/) by following the command below:
 ```sh
-  $ gem install jekyll
+   $ gem install jekyll
 ```
 
-3 - Clone o projeto e navegue até seu diretório:
+3 - Clone the project and navigate to its directory:
 ```sh
-  $ git clone https://github.com/GDGPorto/gdgporto.github.io.git && cd gdgporto.github.io
-```  
+   $ git clone https://github.com/GDGPorto/gdgporto.github.io.git && cd gdgporto.github.io
+```
 
-4 - Instale os pacotes NPM:
+4 - Install the NPM packages:
 ```sh
-	$ npm install
-```	
+$ npm install
+```
 
 5 - Execute:
 ```sh
-	$ gulp
-```	
-Pronto, o website será aberto em seu browser!
+$ gulp
+```
+Thats it, the website will open in your browser!

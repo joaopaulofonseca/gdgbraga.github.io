@@ -24,10 +24,10 @@ compress_html:
 pages:
   - title: Home
     url: /
-  - title: Eventos
-    url: /eventos
-  - title: Sobre GDG
-    url: /sobre
+  - title: Events
+    url: /event
+  - title: Team
+    url: /team
 
 
 exclude: ['package.json', '_src', 'node_modules', 'vendor/bundle/ruby']

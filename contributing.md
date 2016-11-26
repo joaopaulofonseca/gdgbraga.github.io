@@ -1,11 +1,11 @@
-## Como posso contribuir?
+## How can I contribute?
 
-Para contribuir e manter toda organização deste projeto, por favor leia com atenção e siga os passos abaixo listados:
+To contribute and maintain the entire organization of this project, please read carefully and follow the steps listed below:
 
-* Faça um `Fork` deste repositório
-* Crie uma nova `branch` com o nome da feature que você irá implementar: `git checkout -b new-feature`
-* `Commit` suas adições e/ou alterações
-* Faça o `Push` para a branch criada: `git push origin new-feature`
-* Nos Envie um `pull request`
+* Make a "fork" of this repository
+* Create a new branch with the name of the feature you can implement: `git checkout -b new-feature`
+* `Commit` your additions and / or
+* Make `Push` for a branch created:` git push origin new-feature`
+* Send us a `pull request`
 
-> Pronto, agora é só aguardar a averiguação do seu pull request!
+> Okay, now it's so wait for the inquiry of your pull request!
