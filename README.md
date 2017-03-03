@@ -1,7 +1,7 @@
-# GDG Porto
+# GDG Braga
 
-Official Website of Google Developers Group Porto - Portugal
-##### [http://gdgporto.github.io] (http://gdgporto.github.io)
+Official Website of Google Developers Group Braga - Portugal
+##### [http://gdgbraga.github.io] (http://gdgbraga.github.io)
 ---
 
 ### How to Contribute
@@ -16,7 +16,7 @@ Official Website of Google Developers Group Porto - Portugal
 
 3 - Clone the project and navigate to its directory:
 ```sh
-   $ git clone https://github.com/GDGPorto/gdgporto.github.io.git && cd gdgporto.github.io
+   $ git clone https://github.com/GDGBraga/gdgbraga.github.io.git && cd gdgbraga.github.io
 ```
 
 4 - Install the NPM packages:

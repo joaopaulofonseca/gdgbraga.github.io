@@ -1,5 +1,5 @@
 {
-  "name": "gdgporto.github.io",
+  "name": "gdgbraga.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GDGPorto/gdgporto.github.io.git"
+    "url": "git+https://github.com/GDGBraga/gdgbraga.github.io.git"
   },
-  "author": "GDG Porto",
+  "author": "GDG Braga",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GDGPorto/gdgporto.github.io/issues"
+    "url": "https://github.com/GDGBraga/gdgbraga.github.io/issues"
   },
-  "homepage": "https://github.com/GDGPorto/gdgporto.github.io#readme",
+  "homepage": "https://github.com/GDGBraga/gdgbraga.github.io#readme",
   "dependencies": {
     "gulp": "^3.9.0",
     "path": "^0.12.7"
