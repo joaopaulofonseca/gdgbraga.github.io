@@ -1,14 +1,14 @@
 ## Site settings
-title: GDG Porto
-title_min: GDGPORTO
-email:  mail@gdgporto.xyz
+title: GDG Braga
+title_min: GDGBRAGA
+email:  mail@gdgbraga.xyz
 description: > # this means to ignore newlines until "baseurl:"
- Google Developer Group Porto.
+ Google Developer Group Braga.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gdgporto.github.io" # the base hostname & protocol for your site
+url: "http://gdgbraga.github.io" # the base hostname & protocol for your site
 url_dev: "http://localhost:4000"
-twitter_username: gdgporto
-github_username:  GDGPorto
+twitter_username: gdgbraga
+github_username:  GDGBraga
 
 # Build settings
 markdown: kramdown
